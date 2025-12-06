@@ -1,0 +1,11 @@
+102 Bob 90.00
+103 Caroline 78.25
+104 David 92.75
+105 Emma 88.00
+106 Frank 69.50
+107 Grace 95.25
+108 Henry 81.00
+109 Irene 73.50
+110 Jack 87.75
+12 Alexa 45.00
+117 Sheldon 99.00
